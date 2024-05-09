@@ -1,4 +1,4 @@
-Desarrollador .NET Jr
+Desarrollador .NET
 <!--- 
 - 👋 Soy Christian Ricardo Villeda @ChristianRVM. 
 - 👀 Soy ISC y me enfoco al desarrollo de software, especialmente utilizado las herramientas de .NET y .NET Core.
